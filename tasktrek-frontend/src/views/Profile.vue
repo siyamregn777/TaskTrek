@@ -7,7 +7,7 @@
       <div class="profile-content">
         <div class="profile-picture">
           <img
-            src="https://via.placeholder.com/150"
+            src="../assets/pexels-sarah-chai-7282833.jpg"
             alt="Profile Picture"
             class="profile-image"
           />
@@ -16,15 +16,15 @@
         <div class="profile-details">
           <div class="detail-item">
             <label>Name:</label>
-            <p>John Doe</p>
+            <p>Siyamregn Yeshidagna</p>
           </div>
           <div class="detail-item">
             <label>Email:</label>
-            <p>johndoe@example.com</p>
+            <p>siyamregnyeshidagna.com</p>
           </div>
           <div class="detail-item">
             <label>Joined:</label>
-            <p>January 1, 2023</p>
+            <p>January 1, 2025</p>
           </div>
         </div>
         <div class="profile-actions">
