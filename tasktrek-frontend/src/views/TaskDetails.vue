@@ -10,29 +10,10 @@
     </div>
   </template>
   
-  <script>
-  import { useTaskStore } from '../stores/tasks';
+  <script setup>
+  // import { useTaskStore } from '../stores/tasks';
   
-  export default {
-    name: 'TaskDetails',
-    props: {
-      id: {
-        type: String,
-        required: true,
-      },
-    },
-    data() {
-      return {
-        task: null,
-      };
-    },
-    created() {
-      const taskStore = useTaskStore();
-      taskStore.fetchTask(this.id).then(() => {
-        this.task = taskStore.task;
-      });
-    },
-  };
+
   </script>
   
   <style scoped>
