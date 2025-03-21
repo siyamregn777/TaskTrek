@@ -27,7 +27,8 @@
 </template>
 
 <script setup>
-// You can add logic if needed
+// You can add logic
+
 </script>
 
 <style scoped>
