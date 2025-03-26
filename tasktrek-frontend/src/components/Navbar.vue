@@ -134,7 +134,7 @@ nav a:hover {
   border-radius: 4px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 10; /* Ensure it appears above other elements */
-  min-width: 120px; /* Set a minimum width for the dropdown */
+  min-width: 120px; 
 }
 
 .dropdown-menu a {
