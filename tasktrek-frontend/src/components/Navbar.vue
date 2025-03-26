@@ -114,7 +114,8 @@ nav a:hover {
 /* Dropdown styling */
 .dropdown {
   position: relative;
-  cursor: pointer; /* Indicate that the image is clickable */
+  cursor: pointer;
+   /* Indicate that the image is clickable */
 }
 
 .dropdown img {
