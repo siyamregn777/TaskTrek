@@ -146,7 +146,7 @@ nav a:hover {
 }
 
 .dropdown-menu a:hover {
-  background-color: #31dbc4; /* Hover effect for dropdown items */
+  background-color: #31dbc4; 
 }
 
 /* Responsive behavior for smaller screens */
