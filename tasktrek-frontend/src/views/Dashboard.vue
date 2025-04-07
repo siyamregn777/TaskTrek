@@ -2,7 +2,7 @@
   <div :class="['dashboard', { 'dark-mode': isDarkMode }]">
     <!-- Header Section -->
     <header class="header">
-      <h1>Welcome, {{ userName }}</h1>
+      <!-- <h1>Welcome, {{ userName }}</h1> -->
       <p class="subtitle">Your project management overview</p>
       <button @click="toggleDarkMode" class="mode-toggle-btn">
         {{ isDarkMode ? "🌞 Light Mode" : "🌙 Dark Mode" }}
