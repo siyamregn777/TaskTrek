@@ -5,7 +5,6 @@ TaskTrek - Frontend
 Features
 
 1. Responsive Navigation Bar
-
     Logo and Branding: The logo and "TaskTrek" text are displayed side by side for a clean and professional look.
 
     Navigation Links: Includes links to Home, About, Contact, Dashboard, and Profile.
